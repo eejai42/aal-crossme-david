@@ -1,0 +1,2738 @@
+{
+  "Airtable": {
+    "Entities": [
+      {
+        "Entity": [
+          {
+            "EntityId": "rec0rNjYJLPu9wt9b",
+            "createdTime": "2022-02-07T23:00:39Z",
+            "Name": "SelectionMode",
+            "AirtableName": "SelectionModes",
+            "PluralName": "SelectionModes",
+            "Wdigets": "Wdiget2"
+          },
+          {
+            "EntityId": "rec7grMQmxRVlQZ1W",
+            "createdTime": "2022-02-07T23:01:11Z",
+            "Name": "GameLevel",
+            "AirtableName": "GameLevels",
+            "PluralName": "GameLevels"
+          },
+          {
+            "EntityId": "recB7eqMA5QnhuBvz",
+            "createdTime": "2022-02-07T23:00:39Z",
+            "Name": "CellState",
+            "AirtableName": "CellStates",
+            "PluralName": "CellStates",
+            "Wdigets": "Widget1"
+          },
+          {
+            "EntityId": "recNvIHzUpNXcE3pu",
+            "createdTime": "2022-02-07T23:01:22Z",
+            "Name": "LevelCell",
+            "AirtableName": "LevelCells",
+            "PluralName": "LevelCells"
+          },
+          {
+            "EntityId": "recRHiRkN4khaGB58",
+            "createdTime": "2022-02-07T23:00:39Z",
+            "Name": "Game",
+            "AirtableName": "Games",
+            "PluralName": "Games"
+          },
+          {
+            "EntityId": "recWbeoCjCzRtgojO",
+            "createdTime": "2022-02-07T23:01:22Z",
+            "Name": "Entity",
+            "AirtableName": "Entities",
+            "PluralName": "Entities"
+          },
+          {
+            "EntityId": "recdaIugMWXBn9cds",
+            "createdTime": "2022-02-07T23:01:10Z",
+            "Name": "GameLevelGroup",
+            "AirtableName": "GameLevelGroups",
+            "PluralName": "GameLevelGroups",
+            "Wdigets": "Another1"
+          },
+          {
+            "EntityId": "recm70SvosVoFjqjk",
+            "createdTime": "2022-02-07T23:01:04Z",
+            "Name": "Command",
+            "AirtableName": "Commands",
+            "PluralName": "Commands"
+          },
+          {
+            "EntityId": "recoenol7S5VpJbNe",
+            "createdTime": "2022-02-07T23:01:11Z",
+            "Name": "LevelSize",
+            "AirtableName": "LevelSizes",
+            "PluralName": "LevelSizes"
+          }
+        ]
+      },
+      {
+        "Entity": [
+          {
+            "EntityId": "rec0rNjYJLPu9wt9b",
+            "createdTime": "2022-02-07T23:00:39Z",
+            "Name": "SelectionMode",
+            "AirtableName": "SelectionModes",
+            "PluralName": "SelectionModes",
+            "Wdigets": "Wdiget2"
+          },
+          {
+            "EntityId": "rec7grMQmxRVlQZ1W",
+            "createdTime": "2022-02-07T23:01:11Z",
+            "Name": "GameLevel",
+            "AirtableName": "GameLevels",
+            "PluralName": "GameLevels"
+          },
+          {
+            "EntityId": "recB7eqMA5QnhuBvz",
+            "createdTime": "2022-02-07T23:00:39Z",
+            "Name": "CellState",
+            "AirtableName": "CellStates",
+            "PluralName": "CellStates",
+            "Wdigets": "Widget1"
+          },
+          {
+            "EntityId": "recNvIHzUpNXcE3pu",
+            "createdTime": "2022-02-07T23:01:22Z",
+            "Name": "LevelCell",
+            "AirtableName": "LevelCells",
+            "PluralName": "LevelCells"
+          },
+          {
+            "EntityId": "recRHiRkN4khaGB58",
+            "createdTime": "2022-02-07T23:00:39Z",
+            "Name": "Game",
+            "AirtableName": "Games",
+            "PluralName": "Games"
+          },
+          {
+            "EntityId": "recWbeoCjCzRtgojO",
+            "createdTime": "2022-02-07T23:01:22Z",
+            "Name": "Entity",
+            "AirtableName": "Entities",
+            "PluralName": "Entities"
+          },
+          {
+            "EntityId": "recdaIugMWXBn9cds",
+            "createdTime": "2022-02-07T23:01:10Z",
+            "Name": "GameLevelGroup",
+            "AirtableName": "GameLevelGroups",
+            "PluralName": "GameLevelGroups",
+            "Wdigets": "Another1"
+          },
+          {
+            "EntityId": "recm70SvosVoFjqjk",
+            "createdTime": "2022-02-07T23:01:04Z",
+            "Name": "Command",
+            "AirtableName": "Commands",
+            "PluralName": "Commands"
+          },
+          {
+            "EntityId": "recoenol7S5VpJbNe",
+            "createdTime": "2022-02-07T23:01:11Z",
+            "Name": "LevelSize",
+            "AirtableName": "LevelSizes",
+            "PluralName": "LevelSizes"
+          }
+        ]
+      }
+    ],
+    "SelectionModes": {
+      "SelectionMode": [
+        {
+          "SelectionModeId": "recTope7nrGJqOetf",
+          "createdTime": "2022-02-06T23:37:48Z",
+          "Name": "SelectByClicking",
+          "SelectionType": "SelectingASingleCell"
+        },
+        {
+          "SelectionModeId": "recXYU9lqoS9jWB7i",
+          "createdTime": "2022-02-06T23:37:50Z",
+          "Name": "ClickSelectDirection",
+          "SelectionType": "SelectingASingleCell"
+        },
+        {
+          "SelectionModeId": "recfVc8epTZO2LFv3",
+          "createdTime": "2022-02-06T23:34:25Z",
+          "SupportsSingleSelection": "true",
+          "Name": "ClickThenDrag",
+          "SelectionType": "SelectingMultipleCells",
+          "IsMultiple": "true"
+        },
+        {
+          "SelectionModeId": "recj51rS7NmunYfKN",
+          "createdTime": "2022-02-06T23:34:25Z",
+          "SupportsSingleSelection": "true",
+          "Name": "SingleClickThenDrag",
+          "SelectionType": "SelectingMultipleCells",
+          "IsMultiple": "true"
+        },
+        {
+          "SelectionModeId": "recqorC1DvlF837Un",
+          "createdTime": "2022-02-06T23:34:25Z",
+          "Name": "SingleClickThenPencilDrag",
+          "SelectionType": "SelectingMultipleCells",
+          "IsMultiple": "true"
+        },
+        {
+          "SelectionModeId": "recs5othXEzzkK3Y9",
+          "createdTime": "2022-02-06T23:36:21Z",
+          "Name": "ClickThrough",
+          "SelectionType": "SelectingASingleCell"
+        }
+      ]
+    },
+    "GameLevels": {
+      "GameLevel": [
+        {
+          "GameLevelId": "rec2r1MFc4328VEG7",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "16",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.16",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "rec5DkMFOA7bqhhpQ",
+          "createdTime": "2022-02-06T23:45:58Z",
+          "LevelNumber": "4",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.4",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "rec7g0fmMBc4lLeqr",
+          "createdTime": "2022-02-06T23:45:33Z",
+          "LevelNumber": "2",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.2",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "rec84rMYKzPkqpfYc",
+          "createdTime": "2022-02-06T23:46:04Z",
+          "LevelNumber": "7",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.7",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recDztRmFuWww6X4R",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "15",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.15",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recGwb05W9MienXcy",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "12",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.12",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recNWEtLeHFmS5IGN",
+          "createdTime": "2022-02-06T23:46:04Z",
+          "HorizontalDefinitions": "2",
+          "LevelCell": [
+            "recZywyGsl03RcYpE",
+            "recvEEPluQiflXwtt",
+            "rec89hJODUfAPROJ7",
+            "reclYOXHa0vjLuOb8",
+            "recPuJJm1yNOQiMHn",
+            "rec00OmJclIT5rlS7",
+            "rec6s3g71UXK6mRAP",
+            "recQ3rSLUGTZjq483",
+            "rec7iB2hqRFBmPK45",
+            "recT3ifTtOz0094OB",
+            "rec2nFg72rbKUlWyc",
+            "rec6qN8opdvb3vNr9",
+            "recNS7WfGcnu8STtE",
+            "recj8XWQymsFfFtuP",
+            "receSxa6s1NeAVsLd",
+            "recdrbKquKyUWcFKf",
+            "rec4i4KJwqjJ0DYsD",
+            "recGIj1ttwsO3RemD",
+            "recc90TwJ9K1LWiO0",
+            "recXp9UhhbXG61NF1",
+            "reciO0cZ5PXaNlChh",
+            "recf8zYB4tj0TX5w0",
+            "recAD3vfHqa2wnH5B",
+            "recWWqW3gFHzL7r0B",
+            "recNxTXTUXcWxv3UO",
+            "recb7Cz1uTtlE3aJ0",
+            "recZecWg1LNFhvsS0",
+            "rechbFHbS82PmW1yF",
+            "recKs83mUmZ5zcZ8I",
+            "recmSVoZ3wxsyulVU",
+            "rec360wYdtMCJCsbT",
+            "recdK2gZeHvVQHBGX",
+            "recgk6s7fjKdFoFDY",
+            "recTJ2UXgrrhmspfT",
+            "recj8mz1QiMY2AMPz",
+            "recwJ3DQDJoWqDzxn",
+            "recjDocM0kEblqzSa",
+            "recM3Vzh3Ajy7u9Ch",
+            "reclnswyY84Zzp5AJ",
+            "recqslcqcdhXRJpav",
+            "rectPOgARHeWoofRp",
+            "recsuyflhtP28oo4v",
+            "recrUWXaXqH7snUof",
+            "recv1QQqHUQQrS6gH",
+            "recX107crpgz07Vfa",
+            "recL62HuKjabL6UFq",
+            "recgc5T68MGJtrGGo",
+            "recbKeBq0se81YmgI",
+            "recPK9MixbpaIqbKq",
+            "recwVTX0ptCSEPMTH"
+          ],
+          "LevelSize": "recDGlkOIZgAWVYBC",
+          "Attachments": {
+            "AttachmentsId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "VerticalDefinitions": "3",
+          "LevelNumber": "8",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.8",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "25",
+          "PuzzleWidth": "5",
+          "PuzzleHeight": "5",
+          "PuzzleCells": "25"
+        },
+        {
+          "GameLevelId": "recNa7F43b7uMEzlc",
+          "createdTime": "2022-02-06T23:46:04Z",
+          "LevelNumber": "6",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.6",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recP58PojXbPOExWQ",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "17",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.17",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recR4Se4Bhei12M2B",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "13",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.13",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recSc01fEVrPiMboD",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "14",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.14",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recSlQ5irk825iQNN",
+          "createdTime": "2022-02-06T23:45:58Z",
+          "LevelNumber": "5",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.5",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recTiGzDfs2VORp9m",
+          "createdTime": "2022-02-06T23:45:33Z",
+          "LevelNumber": "3",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.3",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "recXr37mrT2GxI25c",
+          "createdTime": "2022-02-06T23:45:33Z",
+          "LevelNumber": "1",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.1",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "receHYAwASJaGmKPU",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "HorizontalDefinitions": "2",
+          "LevelSize": "recdhTUAki0zYcJUw",
+          "VerticalDefinitions": "1",
+          "LevelNumber": "10",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.10",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "21",
+          "PuzzleWidth": "7",
+          "PuzzleHeight": "7",
+          "PuzzleCells": "49"
+        },
+        {
+          "GameLevelId": "recjcFA1AYLzm6VOO",
+          "createdTime": "2022-02-06T23:46:10Z",
+          "LevelNumber": "11",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.11",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        },
+        {
+          "GameLevelId": "reczeIBrfbJxF9M8Y",
+          "createdTime": "2022-02-06T23:46:04Z",
+          "LevelNumber": "9",
+          "LevelGroup": "recB5hsSx3uA5tzJZ",
+          "Name": "Level 1.9",
+          "GroupNumber": "1",
+          "ExpectedDefinitionCells": "0",
+          "PuzzleCells": "0"
+        }
+      ]
+    },
+    "CellStates": {
+      "CellState": [
+        {
+          "CellStateId": "rec0es54v72udNPku",
+          "createdTime": "2022-02-06T23:30:23Z",
+          "Notes": "This cell is part of the picture",
+          "LevelCell": [
+            "rechbFHbS82PmW1yF",
+            "recdK2gZeHvVQHBGX",
+            "recgk6s7fjKdFoFDY",
+            "recTJ2UXgrrhmspfT",
+            "rectPOgARHeWoofRp",
+            "recsuyflhtP28oo4v",
+            "recrUWXaXqH7snUof",
+            "recv1QQqHUQQrS6gH",
+            "recX107crpgz07Vfa",
+            "recL62HuKjabL6UFq",
+            "recbKeBq0se81YmgI",
+            "recwVTX0ptCSEPMTH",
+            "recjDocM0kEblqzSa",
+            "reclnswyY84Zzp5AJ"
+          ],
+          "Name": "Selected",
+          "Category": "Answer"
+        },
+        {
+          "CellStateId": "recARljEACQ76L3kE",
+          "createdTime": "2022-02-06T23:30:23Z",
+          "Notes": "The state of that cell is unknown",
+          "Name": "Unknown",
+          "Category": "Answer"
+        },
+        {
+          "CellStateId": "recXFamj3P0Xl9y82",
+          "createdTime": "2022-02-06T23:30:23Z",
+          "Notes": "This cell is not part of the picture",
+          "LevelCell": [
+            "recb7Cz1uTtlE3aJ0",
+            "recZecWg1LNFhvsS0",
+            "recKs83mUmZ5zcZ8I",
+            "recmSVoZ3wxsyulVU",
+            "rec360wYdtMCJCsbT",
+            "recj8mz1QiMY2AMPz",
+            "recwJ3DQDJoWqDzxn",
+            "recgc5T68MGJtrGGo",
+            "recPK9MixbpaIqbKq",
+            "recM3Vzh3Ajy7u9Ch",
+            "recqslcqcdhXRJpav"
+          ],
+          "Name": "Not Selected",
+          "Category": "Answer"
+        },
+        {
+          "CellStateId": "recswIgkvBNjQSt2p",
+          "createdTime": "2022-02-06T23:33:18Z",
+          "Notes": "This cell tells us the number of Selected cells in that column or row",
+          "LevelCell": [
+            "recZywyGsl03RcYpE",
+            "recvEEPluQiflXwtt",
+            "rec89hJODUfAPROJ7",
+            "reclYOXHa0vjLuOb8",
+            "recPuJJm1yNOQiMHn",
+            "rec00OmJclIT5rlS7",
+            "rec6s3g71UXK6mRAP",
+            "recQ3rSLUGTZjq483",
+            "rec7iB2hqRFBmPK45",
+            "recT3ifTtOz0094OB",
+            "rec2nFg72rbKUlWyc",
+            "rec6qN8opdvb3vNr9",
+            "recNS7WfGcnu8STtE",
+            "recj8XWQymsFfFtuP",
+            "receSxa6s1NeAVsLd",
+            "recdrbKquKyUWcFKf",
+            "rec4i4KJwqjJ0DYsD",
+            "recGIj1ttwsO3RemD",
+            "recc90TwJ9K1LWiO0",
+            "recXp9UhhbXG61NF1",
+            "reciO0cZ5PXaNlChh",
+            "recf8zYB4tj0TX5w0",
+            "recAD3vfHqa2wnH5B",
+            "recWWqW3gFHzL7r0B",
+            "recNxTXTUXcWxv3UO"
+          ],
+          "Name": "PuzzleDefinition",
+          "Category": "Definition"
+        }
+      ]
+    },
+    "LevelCells": {
+      "LevelCell": [
+        {
+          "LevelCellId": "rec00OmJclIT5rlS7",
+          "createdTime": "2022-02-06T23:57:35Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "HorizontalDef for Level 1.8-1x-2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "rec2nFg72rbKUlWyc",
+          "createdTime": "2022-02-06T23:57:40Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "2",
+          "Name": "HorizontalDef for Level 1.8-2x-2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "rec360wYdtMCJCsbT",
+          "createdTime": "2022-02-07T00:01:23Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-0x1",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "rec4i4KJwqjJ0DYsD",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "3",
+          "Name": "HorizontalDef for Level 1.8-3x-1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "rec6qN8opdvb3vNr9",
+          "createdTime": "2022-02-06T23:57:40Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "2",
+          "Name": "HorizontalDef for Level 1.8-2x-1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "rec6s3g71UXK6mRAP",
+          "createdTime": "2022-02-06T23:57:35Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "3",
+          "Name": "HorizontalDef for Level 1.8-1x-1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "rec7iB2hqRFBmPK45",
+          "createdTime": "2022-02-06T23:57:35Z",
+          "X": "-2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--2x1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "rec89hJODUfAPROJ7",
+          "createdTime": "2022-02-06T23:53:07Z",
+          "X": "-3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--3x0",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recAD3vfHqa2wnH5B",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "1",
+          "Name": "VerticalDef for Level 1.8--3x4",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recGIj1ttwsO3RemD",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--3x3",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recKs83mUmZ5zcZ8I",
+          "createdTime": "2022-02-07T00:01:19Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-3x0",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recL62HuKjabL6UFq",
+          "createdTime": "2022-02-07T00:02:06Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-0x4",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recM3Vzh3Ajy7u9Ch",
+          "createdTime": "2022-02-07T00:01:39Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "Name": "VerticalAnswer for Level 1.8-2x2",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected",
+          "CellState": "recXFamj3P0Xl9y82"
+        },
+        {
+          "LevelCellId": "recNS7WfGcnu8STtE",
+          "createdTime": "2022-02-06T23:57:40Z",
+          "X": "-3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--3x2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recNxTXTUXcWxv3UO",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "1",
+          "Name": "VerticalDef for Level 1.8--1x4",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recPK9MixbpaIqbKq",
+          "createdTime": "2022-02-07T00:02:09Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-3x4",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recPuJJm1yNOQiMHn",
+          "createdTime": "2022-02-06T23:55:02Z",
+          "X": "-1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "1",
+          "Name": "VerticalDef for Level 1.8--1x0",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recQ3rSLUGTZjq483",
+          "createdTime": "2022-02-06T23:57:35Z",
+          "X": "-3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--3x1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recT3ifTtOz0094OB",
+          "createdTime": "2022-02-06T23:57:40Z",
+          "X": "-1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "3",
+          "Name": "VerticalDef for Level 1.8--1x1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recTJ2UXgrrhmspfT",
+          "createdTime": "2022-02-07T00:01:33Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-3x1",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recWWqW3gFHzL7r0B",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "1",
+          "Name": "VerticalDef for Level 1.8--2x4",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recX107crpgz07Vfa",
+          "createdTime": "2022-02-07T00:01:46Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-4x3",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recXp9UhhbXG61NF1",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "5",
+          "Name": "VerticalDef for Level 1.8--1x3",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recZecWg1LNFhvsS0",
+          "createdTime": "2022-02-07T00:01:14Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-1x0",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recZywyGsl03RcYpE",
+          "createdTime": "2022-02-06T23:53:07Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "HorizontalDef for Level 1.8-0x-2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recb7Cz1uTtlE3aJ0",
+          "createdTime": "2022-02-07T00:01:06Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-0x0",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recbKeBq0se81YmgI",
+          "createdTime": "2022-02-07T00:02:08Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-2x4",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recc90TwJ9K1LWiO0",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--2x3",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recdK2gZeHvVQHBGX",
+          "createdTime": "2022-02-07T00:01:23Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-1x1",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recdrbKquKyUWcFKf",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "HorizontalDef for Level 1.8-3x-2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "receSxa6s1NeAVsLd",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "1",
+          "Name": "VerticalDef for Level 1.8--1x2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recf8zYB4tj0TX5w0",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "2",
+          "Name": "HorizontalDef for Level 1.8-4x-1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recgc5T68MGJtrGGo",
+          "createdTime": "2022-02-07T00:02:08Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-1x4",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recgk6s7fjKdFoFDY",
+          "createdTime": "2022-02-07T00:01:33Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-2x1",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "rechbFHbS82PmW1yF",
+          "createdTime": "2022-02-07T00:01:17Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-2x0",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "reciO0cZ5PXaNlChh",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "HorizontalDef for Level 1.8-4x-2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recj8XWQymsFfFtuP",
+          "createdTime": "2022-02-06T23:57:44Z",
+          "X": "-2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "1",
+          "Name": "VerticalDef for Level 1.8--2x2",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recj8mz1QiMY2AMPz",
+          "createdTime": "2022-02-07T00:01:33Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "1",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-4x1",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recjDocM0kEblqzSa",
+          "createdTime": "2022-02-07T00:01:39Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "Name": "VerticalAnswer for Level 1.8-1x2",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected",
+          "CellState": "rec0es54v72udNPku"
+        },
+        {
+          "LevelCellId": "reclYOXHa0vjLuOb8",
+          "createdTime": "2022-02-06T23:54:59Z",
+          "X": "-2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recswIgkvBNjQSt2p",
+          "Name": "VerticalDef for Level 1.8--2x0",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "1",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Vertical",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "reclnswyY84Zzp5AJ",
+          "createdTime": "2022-02-07T00:01:39Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "Name": "VerticalAnswer for Level 1.8-3x2",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected",
+          "CellState": "rec0es54v72udNPku"
+        },
+        {
+          "LevelCellId": "recmSVoZ3wxsyulVU",
+          "createdTime": "2022-02-07T00:01:20Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "0",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-4x0",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recqslcqcdhXRJpav",
+          "createdTime": "2022-02-07T00:01:39Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "Name": "VerticalAnswer for Level 1.8-4x2",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected",
+          "CellState": "recXFamj3P0Xl9y82"
+        },
+        {
+          "LevelCellId": "recrUWXaXqH7snUof",
+          "createdTime": "2022-02-07T00:01:46Z",
+          "X": "2",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-2x3",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recsuyflhtP28oo4v",
+          "createdTime": "2022-02-07T00:01:46Z",
+          "X": "1",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-1x3",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "rectPOgARHeWoofRp",
+          "createdTime": "2022-02-07T00:01:42Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-0x3",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recv1QQqHUQQrS6gH",
+          "createdTime": "2022-02-07T00:01:46Z",
+          "X": "3",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "3",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-3x3",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelCellId": "recvEEPluQiflXwtt",
+          "createdTime": "2022-02-06T23:53:07Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "-1",
+          "CellState": "recswIgkvBNjQSt2p",
+          "DefinedValue": "2",
+          "Name": "HorizontalDef for Level 1.8-0x-1",
+          "IsDefinition": "1",
+          "IsHorizontalPuzzleDefinition": "1",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Definition",
+          "CellType": "Horizontal",
+          "CellStateName": "PuzzleDefinition"
+        },
+        {
+          "LevelCellId": "recwJ3DQDJoWqDzxn",
+          "createdTime": "2022-02-07T00:01:37Z",
+          "X": "0",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "2",
+          "CellState": "recXFamj3P0Xl9y82",
+          "Name": "VerticalAnswer for Level 1.8-0x2",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelCellId": "recwVTX0ptCSEPMTH",
+          "createdTime": "2022-02-07T00:02:10Z",
+          "X": "4",
+          "GameLevel": "recNWEtLeHFmS5IGN",
+          "Y": "4",
+          "CellState": "rec0es54v72udNPku",
+          "Name": "VerticalAnswer for Level 1.8-4x4",
+          "IsDefinition": "0",
+          "IsHorizontalPuzzleDefinition": "0",
+          "IsVerticalPuzzleDefinition": "0",
+          "GamePicture": {
+            "GamePictureId": "att6pcOtgCjCDHRSK",
+            "width": "2048",
+            "height": "1536",
+            "url": "https://dl.airtable.com/.attachments/b140be822d55a7ff7bff5b315b25cb0b/422ca0a3/File.jpg",
+            "filename": "File.jpg",
+            "size": "366528",
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7e9461dc9d9b5adab7ff6cf47e6d02bd/43f7e3c7",
+                "width": "48",
+                "height": "36"
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f34ee39958e4ebb1ded3c194c3e60c33/dde5a056",
+                "width": "683",
+                "height": "512"
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95b44866fb1154d2155bd1778804a8c/1ecc4f2c",
+                "width": "3000",
+                "height": "3000"
+              }
+            }
+          },
+          "CellStateCategory": "Answer",
+          "CellType": "Answer",
+          "CellStateName": "Selected"
+        }
+      ]
+    },
+    "Games": {
+      "Game": [
+        {
+          "GameId": "recCjEw7SpPI06LcK",
+          "createdTime": "2022-02-06T23:29:55Z",
+          "SelectionSymbol": "Dot",
+          "Name": "Cross Me Color",
+          "Directions": "UpLeft",
+          "DefaultSpaces": "Two"
+        },
+        {
+          "GameId": "recGuV1q68sJE1yAj",
+          "createdTime": "2022-02-06T23:29:55Z",
+          "Notes": "Each number represents the number of cells in a group that must be filled in.  Fill in all five cells to complete the first tutorial",
+          "SelectionSymbol": "X",
+          "Name": "Cross me",
+          "Directions": "UpDownLeftRight",
+          "IsAuto": "true",
+          "DefaultSpaces": "Four"
+        },
+        {
+          "GameId": "recWFcIS3MRHQOLuZ",
+          "fields": null,
+          "createdTime": "2022-02-06T23:29:55Z"
+        }
+      ]
+    },
+    "GameLevelGroups": {
+      "GameLevelGroup": [
+        {
+          "GameLevelGroupId": "recB5hsSx3uA5tzJZ",
+          "createdTime": "2022-02-06T23:49:21Z",
+          "GroupNumber": "1",
+          "GameLevels": [
+            "recXr37mrT2GxI25c",
+            "rec7g0fmMBc4lLeqr",
+            "recTiGzDfs2VORp9m",
+            "rec5DkMFOA7bqhhpQ",
+            "recSlQ5irk825iQNN",
+            "recNa7F43b7uMEzlc",
+            "rec84rMYKzPkqpfYc",
+            "recNWEtLeHFmS5IGN",
+            "reczeIBrfbJxF9M8Y",
+            "receHYAwASJaGmKPU",
+            "recjcFA1AYLzm6VOO",
+            "recGwb05W9MienXcy",
+            "recR4Se4Bhei12M2B",
+            "recSc01fEVrPiMboD",
+            "recDztRmFuWww6X4R",
+            "rec2r1MFc4328VEG7",
+            "recP58PojXbPOExWQ"
+          ],
+          "Name": "Group 1"
+        },
+        {
+          "GameLevelGroupId": "recY5AqNZUPe7hwBl",
+          "createdTime": "2022-02-06T23:49:21Z",
+          "GroupNumber": "3",
+          "Name": "Group 3"
+        },
+        {
+          "GameLevelGroupId": "recwyewGR1S2qcVbp",
+          "createdTime": "2022-02-06T23:49:21Z",
+          "GroupNumber": "2",
+          "Name": "Group 2"
+        }
+      ]
+    },
+    "Commands": {
+      "Command": [
+        {
+          "CommandId": "rec4FgYeRoScvQ6Dd",
+          "createdTime": "2022-02-06T23:35:09Z",
+          "Notes": "Shows a list of levels",
+          "Name": "PickLevel",
+          "CommandContext": "Puzzle"
+        },
+        {
+          "CommandId": "recEMoEfcSKeJgQ0w",
+          "createdTime": "2022-02-06T23:35:09Z",
+          "Name": "ChangeSelectionModes",
+          "CommandContext": "Puzzle"
+        },
+        {
+          "CommandId": "recYUKVEYjEA4Uy4O",
+          "createdTime": "2022-02-06T23:35:09Z",
+          "Notes": "Resets the current level of play",
+          "Name": "RestartLevel",
+          "CommandContext": "Puzzle"
+        },
+        {
+          "CommandId": "reckfvjNcrCbshv0G",
+          "createdTime": "2022-02-06T23:44:21Z",
+          "Notes": "Takes you back to game",
+          "Name": "Play",
+          "CommandContext": "Settingss"
+        }
+      ]
+    },
+    "LevelSizes": {
+      "LevelSize": [
+        {
+          "LevelSizeId": "recDGlkOIZgAWVYBC",
+          "createdTime": "2022-02-06T23:48:23Z",
+          "Height": "5",
+          "Width": "5",
+          "Name": "5x5",
+          "GameLevels": "recNWEtLeHFmS5IGN"
+        },
+        {
+          "LevelSizeId": "recdhTUAki0zYcJUw",
+          "createdTime": "2022-02-07T00:30:32Z",
+          "Height": "7",
+          "Width": "7",
+          "Name": "7x7",
+          "GameLevels": "receHYAwASJaGmKPU"
+        },
+        {
+          "LevelSizeId": "recgHvUqubHJOqCV1",
+          "fields": null,
+          "createdTime": "2022-02-06T23:48:23Z"
+        },
+        {
+          "LevelSizeId": "recoljSzOnbj4xRNR",
+          "fields": null,
+          "createdTime": "2022-02-06T23:48:23Z"
+        }
+      ]
+    }
+  }
+}

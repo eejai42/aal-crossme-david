@@ -3,23 +3,65 @@
     <Entity>
       <EntityId>rec5gYyTAZXDl77x0</EntityId>
       <createdTime>2022-02-15T23:48:48Z</createdTime>
-      <Name>AppItem</Name>
       <PluralName>AppItems</PluralName>
       <AirtableName>AppItems</AirtableName>
+      <Name>AppItem</Name>
     </Entity>
     <Entity>
       <EntityId>rec6uIYxHdTGcCfkX</EntityId>
       <createdTime>2022-02-15T23:48:48Z</createdTime>
-      <Name>Level</Name>
       <PluralName>Levels</PluralName>
       <AirtableName>Levels</AirtableName>
+      <Name>Level</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recCHHA5vhapn4eg2</EntityId>
+      <createdTime>2022-03-02T20:31:48Z</createdTime>
+      <PluralName>GamePlays</PluralName>
+      <AirtableName>GamePlay</AirtableName>
+      <Name>GamePlay</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recDvYbjFBFfkxMmT</EntityId>
+      <createdTime>2022-02-25T00:05:28Z</createdTime>
+      <PluralName>Texts</PluralName>
+      <AirtableName>Text</AirtableName>
+      <Name>Text</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recORvft6TeKj5MRj</EntityId>
+      <createdTime>2022-02-25T00:05:35Z</createdTime>
+      <PluralName>Versions</PluralName>
+      <AirtableName>Version</AirtableName>
+      <Name>Version</Name>
     </Entity>
     <Entity>
       <EntityId>recSCIUYbNzvY9BEo</EntityId>
       <createdTime>2022-02-15T23:48:48Z</createdTime>
-      <Name>Entity</Name>
       <PluralName>Entities</PluralName>
       <AirtableName>Entities</AirtableName>
+      <Name>Entity</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recT2Axg0bckUNOKd</EntityId>
+      <createdTime>2022-02-25T00:05:31Z</createdTime>
+      <PluralName>Settings</PluralName>
+      <AirtableName>Settings</AirtableName>
+      <Name>Settings</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recTk3uRI0ATQTdyo</EntityId>
+      <createdTime>2022-03-02T20:31:10Z</createdTime>
+      <PluralName>Profiles</PluralName>
+      <AirtableName>Profiles</AirtableName>
+      <Name>Profile</Name>
+    </Entity>
+    <Entity>
+      <EntityId>rechsYZpdfDI8OsjM</EntityId>
+      <createdTime>2022-02-25T00:05:20Z</createdTime>
+      <PluralName>Languages</PluralName>
+      <AirtableName>Languages</AirtableName>
+      <Name>Language</Name>
     </Entity>
   </Entities>
   <AppItems>
@@ -513,27 +555,327 @@
       <MenuName>#1.08</MenuName>
     </Level>
   </Levels>
+  <GamePlays>
+    <GamePlay>
+      <GamePlayId>rec2CcUTp6MyPCtXI</GamePlayId>
+      <fields />
+      <createdTime>2022-02-07T23:24:36Z</createdTime>
+    </GamePlay>
+    <GamePlay>
+      <GamePlayId>recBSpHjagDT0YDC8</GamePlayId>
+      <fields />
+      <createdTime>2022-02-07T23:24:36Z</createdTime>
+    </GamePlay>
+    <GamePlay>
+      <GamePlayId>recFaRN01uEEaAbVk</GamePlayId>
+      <fields />
+      <createdTime>2022-02-07T23:24:36Z</createdTime>
+    </GamePlay>
+  </GamePlays>
+  <Texts>
+    <Text>
+      <TextId>rec2RW8a9sSZT8rX9</TextId>
+      <createdTime>2022-02-07T23:37:18Z</createdTime>
+      <English>You can sync your progress between devices:</English>
+      <Token>SyncPageText</Token>
+    </Text>
+    <Text>
+      <TextId>rec2YxcRSdrQZHMWq</TextId>
+      <createdTime>2022-02-07T23:26:30Z</createdTime>
+      <English>Settings</English>
+      <Token>SettingsPageTitle</Token>
+    </Text>
+    <Text>
+      <TextId>rec2vLJNqCvwwssyS</TextId>
+      <createdTime>2022-02-07T23:47:37Z</createdTime>
+      <English>Left-handed</English>
+      <Token>GameMenuHandsToggle</Token>
+    </Text>
+    <Text>
+      <TextId>rec5R6T6dELmKrhaP</TextId>
+      <createdTime>2022-02-07T23:47:12Z</createdTime>
+      <English>Save load</English>
+      <Token>GameMenuSaveLoadToggle</Token>
+    </Text>
+    <Text>
+      <TextId>rec5qGQU276UjLyW7</TextId>
+      <createdTime>2022-02-07T23:36:47Z</createdTime>
+      <English>Sync</English>
+      <Token>SyncPageTitle</Token>
+    </Text>
+    <Text>
+      <TextId>rec7rPzuRJNRrWqAd</TextId>
+      <createdTime>2022-02-07T23:47:12Z</createdTime>
+      <English>Right-handed</English>
+      <Token>GameMenuHandsToggle</Token>
+    </Text>
+    <Text>
+      <TextId>rec81ivRucy1mnZml</TextId>
+      <createdTime>2022-02-07T23:46:41Z</createdTime>
+      <English>Zoom by volume buttons</English>
+      <Token>GameMenuZoomFeatureToggle</Token>
+    </Text>
+    <Text>
+      <TextId>rec8aXZbwKFpGX4Vy</TextId>
+      <createdTime>2022-02-07T23:46:58Z</createdTime>
+      <English>Vibration</English>
+      <Token>GameMenuVibrationToggle</Token>
+    </Text>
+    <Text>
+      <TextId>recCED3WXWI9D7oyk</TextId>
+      <createdTime>2022-02-07T23:35:39Z</createdTime>
+      <English>Progress</English>
+      <Token>ProgressPageTitle</Token>
+    </Text>
+    <Text>
+      <TextId>recCPBNFvYVE8PAsu</TextId>
+      <createdTime>2022-02-07T23:44:38Z</createdTime>
+      <English>Game</English>
+      <Token>GamePageTitle</Token>
+    </Text>
+    <Text>
+      <TextId>recEzNyGiPPG8J9Ru</TextId>
+      <createdTime>2022-02-07T23:35:11Z</createdTime>
+      <English>About</English>
+      <Token>SettingsMenuAboutButton</Token>
+    </Text>
+    <Text>
+      <TextId>recFRY0DsOINESBPh</TextId>
+      <createdTime>2022-02-07T23:42:21Z</createdTime>
+      <English>Cancel</English>
+      <Token>SyncPageLoginButtonGui</Token>
+    </Text>
+    <Text>
+      <TextId>recHNGz2RmTMVUE0V</TextId>
+      <createdTime>2022-02-07T23:47:04Z</createdTime>
+      <English>Hints</English>
+      <Token>GameMenuHintsToggle</Token>
+    </Text>
+    <Text>
+      <TextId>recPDA4hzMDlvmMvL</TextId>
+      <createdTime>2022-02-07T23:50:43Z</createdTime>
+      <French>N/A</French>
+      <Attachmentscopy>N/A</Attachmentscopy>
+      <Attachmentscopycopy>N/A</Attachmentscopycopy>
+      <English>N/A</English>
+      <Token>LanguagePageLanguages</Token>
+    </Text>
+    <Text>
+      <TextId>recPxVoLfBCoNzyPF</TextId>
+      <createdTime>2022-02-07T23:49:46Z</createdTime>
+      <English>Language</English>
+      <Token>LanguagePageTitle</Token>
+    </Text>
+    <Text>
+      <TextId>recQtgAyODxBT6eXW</TextId>
+      <createdTime>2022-02-07T23:35:56Z</createdTime>
+      <English>Sync</English>
+      <Token>ProgressMenuSyncButton</Token>
+    </Text>
+    <Text>
+      <TextId>recY1K8PMFSXq27kv</TextId>
+      <createdTime>2022-02-07T23:26:30Z</createdTime>
+      <English>Progress</English>
+      <Token>SettingsMenuProgressButton</Token>
+    </Text>
+    <Text>
+      <TextId>recgEK49lu3DIFhil</TextId>
+      <createdTime>2022-02-07T23:35:11Z</createdTime>
+      <English>Language</English>
+      <Token>SettingsMenuLanguageButton</Token>
+    </Text>
+    <Text>
+      <TextId>recnNzQIyeB66Adcu</TextId>
+      <createdTime>2022-02-07T23:26:30Z</createdTime>
+      <English>CrossMe</English>
+      <Token>GameTitle</Token>
+    </Text>
+    <Text>
+      <TextId>recpAFGUxRDbHz4u0</TextId>
+      <createdTime>2022-02-07T23:36:18Z</createdTime>
+      <English>Reset</English>
+      <Token>ProgressMenuResetButton</Token>
+    </Text>
+    <Text>
+      <TextId>recwUFDvahiFhawBE</TextId>
+      <createdTime>2022-02-07T23:45:02Z</createdTime>
+      <English>Controls</English>
+      <Token>GameMenuControlsButton</Token>
+    </Text>
+    <Text>
+      <TextId>recwzkbj4HFFLEhw1</TextId>
+      <createdTime>2022-02-07T23:35:11Z</createdTime>
+      <English>Game</English>
+      <Token>SettingsMenuGameButton</Token>
+    </Text>
+    <Text>
+      <TextId>recyHYviEHMORxA1r</TextId>
+      <createdTime>2022-02-07T23:42:00Z</createdTime>
+      <English>Log In</English>
+      <Token>SyncPageLoginButton</Token>
+    </Text>
+    <Text>
+      <TextId>recyRazfI5wMwm8RT</TextId>
+      <fields />
+      <createdTime>2022-02-07T23:51:21Z</createdTime>
+    </Text>
+  </Texts>
+  <Versions>
+    <Version>
+      <VersionId>recAGXjrhiJxzkpcj</VersionId>
+      <createdTime>2022-02-07T23:45:25Z</createdTime>
+      <Version>3</Version>
+      <Notes>Added new color them bla bla </Notes>
+    </Version>
+    <Version>
+      <VersionId>recALeCY9QWB3dROR</VersionId>
+      <createdTime>2022-02-07T23:45:25Z</createdTime>
+      <Version>1</Version>
+      <Notes>Has all features bla bla</Notes>
+    </Version>
+    <Version>
+      <VersionId>recUDgegyBg0xZtlV</VersionId>
+      <createdTime>2022-02-07T23:45:25Z</createdTime>
+      <Version>2</Version>
+      <Notes>Added new level bla bla </Notes>
+    </Version>
+  </Versions>
   <Entities>
     <Entity>
       <EntityId>rec5gYyTAZXDl77x0</EntityId>
       <createdTime>2022-02-15T23:48:48Z</createdTime>
-      <Name>AppItem</Name>
       <PluralName>AppItems</PluralName>
       <AirtableName>AppItems</AirtableName>
+      <Name>AppItem</Name>
     </Entity>
     <Entity>
       <EntityId>rec6uIYxHdTGcCfkX</EntityId>
       <createdTime>2022-02-15T23:48:48Z</createdTime>
-      <Name>Level</Name>
       <PluralName>Levels</PluralName>
       <AirtableName>Levels</AirtableName>
+      <Name>Level</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recCHHA5vhapn4eg2</EntityId>
+      <createdTime>2022-03-02T20:31:48Z</createdTime>
+      <PluralName>GamePlays</PluralName>
+      <AirtableName>GamePlay</AirtableName>
+      <Name>GamePlay</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recDvYbjFBFfkxMmT</EntityId>
+      <createdTime>2022-02-25T00:05:28Z</createdTime>
+      <PluralName>Texts</PluralName>
+      <AirtableName>Text</AirtableName>
+      <Name>Text</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recORvft6TeKj5MRj</EntityId>
+      <createdTime>2022-02-25T00:05:35Z</createdTime>
+      <PluralName>Versions</PluralName>
+      <AirtableName>Version</AirtableName>
+      <Name>Version</Name>
     </Entity>
     <Entity>
       <EntityId>recSCIUYbNzvY9BEo</EntityId>
       <createdTime>2022-02-15T23:48:48Z</createdTime>
-      <Name>Entity</Name>
       <PluralName>Entities</PluralName>
       <AirtableName>Entities</AirtableName>
+      <Name>Entity</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recT2Axg0bckUNOKd</EntityId>
+      <createdTime>2022-02-25T00:05:31Z</createdTime>
+      <PluralName>Settings</PluralName>
+      <AirtableName>Settings</AirtableName>
+      <Name>Settings</Name>
+    </Entity>
+    <Entity>
+      <EntityId>recTk3uRI0ATQTdyo</EntityId>
+      <createdTime>2022-03-02T20:31:10Z</createdTime>
+      <PluralName>Profiles</PluralName>
+      <AirtableName>Profiles</AirtableName>
+      <Name>Profile</Name>
+    </Entity>
+    <Entity>
+      <EntityId>rechsYZpdfDI8OsjM</EntityId>
+      <createdTime>2022-02-25T00:05:20Z</createdTime>
+      <PluralName>Languages</PluralName>
+      <AirtableName>Languages</AirtableName>
+      <Name>Language</Name>
     </Entity>
   </Entities>
+  <Settings>
+    <Settings>
+      <SettingsId>recCj1OBUdAt60zE3</SettingsId>
+      <createdTime>2022-02-07T23:32:25Z</createdTime>
+      <Name>Progress</Name>
+    </Settings>
+    <Settings>
+      <SettingsId>recIPkFjRsfSq5x0U</SettingsId>
+      <createdTime>2022-02-07T23:32:25Z</createdTime>
+      <Name>Game</Name>
+    </Settings>
+    <Settings>
+      <SettingsId>recZTh5I5EZZNPJUE</SettingsId>
+      <createdTime>2022-02-08T01:03:01Z</createdTime>
+      <Name>About</Name>
+    </Settings>
+    <Settings>
+      <SettingsId>recgd6lwVhqLt7SEr</SettingsId>
+      <createdTime>2022-02-07T23:32:25Z</createdTime>
+      <Name>Language</Name>
+    </Settings>
+  </Settings>
+  <Profiles>
+    <Profile>
+      <ProfileId>rec9Dzc3o5tIWoKwf</ProfileId>
+      <createdTime>2022-02-07T23:27:18Z</createdTime>
+      <LastName>Wan</LastName>
+      <FirstName>Sadiq</FirstName>
+      <Email>sadiq@ssot.me</Email>
+      <Password>12314</Password>
+    </Profile>
+    <Profile>
+      <ProfileId>reco4IAnXxIvvRLjR</ProfileId>
+      <createdTime>2022-02-07T23:27:18Z</createdTime>
+      <LastName>Gandjui</LastName>
+      <FirstName>David</FirstName>
+      <Email>david@ssot.me</Email>
+      <Password>10101</Password>
+    </Profile>
+    <Profile>
+      <ProfileId>recxzgasyEtoabaqK</ProfileId>
+      <createdTime>2022-02-07T23:27:18Z</createdTime>
+      <LastName>Alexandra</LastName>
+      <FirstName>EJ Alexandra</FirstName>
+    </Profile>
+  </Profiles>
+  <Languages>
+    <Language>
+      <LanguageId>recCx4nOPFssip4Dd</LanguageId>
+      <createdTime>2022-02-08T01:03:20Z</createdTime>
+      <Name>English</Name>
+    </Language>
+    <Language>
+      <LanguageId>recDMh5MudY5x0WOr</LanguageId>
+      <createdTime>2022-02-08T01:04:01Z</createdTime>
+      <Name>Italian</Name>
+    </Language>
+    <Language>
+      <LanguageId>recDbcRxStgfxekAO</LanguageId>
+      <createdTime>2022-02-08T01:03:51Z</createdTime>
+      <Name>Spanish</Name>
+    </Language>
+    <Language>
+      <LanguageId>recZV9AeXChBPm90L</LanguageId>
+      <createdTime>2022-02-08T01:03:34Z</createdTime>
+      <Name>French</Name>
+    </Language>
+    <Language>
+      <LanguageId>recmFWIpfwJUzd6oL</LanguageId>
+      <createdTime>2022-03-02T20:30:21Z</createdTime>
+      <Name>Portuguese</Name>
+    </Language>
+  </Languages>
 </Airtable>
