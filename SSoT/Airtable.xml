@@ -144,7 +144,7 @@
       <HintsAvailable>4</HintsAvailable>
       <LevelHeight>7</LevelHeight>
       <SolutionFilledCells>23</SolutionFilledCells>
-      <LevelSize>7x5</LevelSize>
+      <LevelSize>5x7</LevelSize>
       <SolutionImage>
         <SolutionImageId>atttWXlzpiprKDZEB</SolutionImageId>
         <width>1080</width>
@@ -172,6 +172,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.09</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>9</LevelNumber>
     </Level>
     <Level>
       <LevelId>rec20JJLRiz2B2gAU</LevelId>
@@ -216,6 +218,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.07</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>7</LevelNumber>
     </Level>
     <Level>
       <LevelId>rec2Z424gdaGOEi38</LevelId>
@@ -259,6 +263,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.06</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>6</LevelNumber>
     </Level>
     <Level>
       <LevelId>rec783eutjekwjauX</LevelId>
@@ -305,6 +311,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.10</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>10</LevelNumber>
     </Level>
     <Level>
       <LevelId>recELm8z3DQybnvXC</LevelId>
@@ -348,6 +356,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.05</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>5</LevelNumber>
     </Level>
     <Level>
       <LevelId>recL5MKodGQjvZ615</LevelId>
@@ -387,6 +397,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.01</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>1</LevelNumber>
     </Level>
     <Level>
       <LevelId>recOQ8JJB5zI4aVaV</LevelId>
@@ -429,6 +441,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.04</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>4</LevelNumber>
     </Level>
     <Level>
       <LevelId>recbCyIpSxLIjslnY</LevelId>
@@ -469,6 +483,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.02</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>2</LevelNumber>
     </Level>
     <Level>
       <LevelId>recm91XAe3jvokoxa</LevelId>
@@ -510,6 +526,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.03</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>3</LevelNumber>
     </Level>
     <Level>
       <LevelId>rectmmXkmF8V5NzIl</LevelId>
@@ -525,7 +543,7 @@
 10101</SolutionBinary>
       <LevelHeight>5</LevelHeight>
       <SolutionFilledCells>14</SolutionFilledCells>
-      <LevelSize>6x5</LevelSize>
+      <LevelSize>5x5</LevelSize>
       <SolutionImage>
         <SolutionImageId>attlMggcZBFhnkGQa</SolutionImageId>
         <width>1080</width>
@@ -553,6 +571,8 @@
         </thumbnails>
       </SolutionImage>
       <MenuName>#1.08</MenuName>
+      <GroupNumber>1</GroupNumber>
+      <LevelNumber>8</LevelNumber>
     </Level>
   </Levels>
   <GamePlays>
