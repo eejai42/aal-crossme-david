@@ -61,8 +61,8 @@ Level Height: <xsl:value-of select="LevelHeight" />
 Level Width: <xsl:value-of select="LevelWidth" />
 Solution Empty Cells: <xsl:value-of select="SolutionEmptyCells" />
 Solution Filled Cells: <xsl:value-of select="SolutionFilledCells" />
-Solution Image : <xsl:value-of select="SolutionImage" />
-					<img src="https://static.wikia.nocookie.net/weebipedia/images/6/68/Eren_titan1.jpg/revision/latest/scale-to-width-down/250?cb=20200101193521" />
+Solution Image : 
+					&lt;img width="70px"  src="<xsl:value-of select="SolutionImage/url" />" />
 					
 				</pre>
             </div>    
