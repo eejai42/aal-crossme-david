@@ -57,6 +57,11 @@ Level Size: <xsl:value-of select="LevelSize" />
 Total Cells: <xsl:value-of select="TotalCells" />
 Group Number: <xsl:value-of select="GroupNumber" />
 Level Number: <xsl:value-of select="LevelNumber" />
+Level Height: <xsl:value-of select="LevelHeight" />
+Level Width: <xsl:value-of select="LevelWidth" />
+Solution Empty Cells: <xsl:value-of select="SolutionEmptyCells" />
+Solution Filled Cells: <xsl:value-of select="SolutionFilledCells" />
+Solution Image : <xsl:value-of select="SolutionImage" />
 					
 				</pre>
             </div>    
@@ -116,6 +121,16 @@ Level Number: <xsl:value-of select="LevelNumber" />
 				<pre>  (<xsl:value-of select="DisplayName" />)  </pre>
             </div>    
         </xsl:for-each>
+		
+                        <h2>Versions</h2>
+		<p>App Versions</p>
+		<xsl:for-each select="$versions">
+			  <xsl:sort select="Version" />
+			  <div>
+				  <xsl:value-of select="Version"/>.0
+				  <xsl:value-of select="Notes" />
+			  </div>
+		</xsl:for-each>
 		
     </body>
                     </html>

@@ -368,9 +368,7 @@
       <TotalCells>5</TotalCells>
       <LevelWidth>5</LevelWidth>
       <SolutionBinary>11111
-01100
-11101</SolutionBinary>
-      <LevelHeight>3</LevelHeight>
+</SolutionBinary>
       <SolutionFilledCells>5</SolutionFilledCells>
       <SolutionImage>
         <SolutionImageId>attop4VmxuJIwQrzd</SolutionImageId>
@@ -400,7 +398,8 @@
       </SolutionImage>
       <GroupNumber>1</GroupNumber>
       <MenuName>#1.01</MenuName>
-      <LevelSize>5x3</LevelSize>
+      <LevelSize>5x1</LevelSize>
+      <LevelHeight>1</LevelHeight>
     </Level>
     <Level>
       <LevelId>recOQ8JJB5zI4aVaV</LevelId>
@@ -865,6 +864,7 @@
       <FirstName>David</FirstName>
       <Email>david@ssot.me</Email>
       <Password>10101</Password>
+      <FavoriteColor>red</FavoriteColor>
     </Profile>
     <Profile>
       <ProfileId>recxzgasyEtoabaqK</ProfileId>
