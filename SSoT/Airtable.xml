@@ -362,13 +362,14 @@
     <Level>
       <LevelId>recL5MKodGQjvZ615</LevelId>
       <createdTime>2022-02-07T23:24:27Z</createdTime>
-      <LevelName>Tutorial</LevelName>
+      <LevelName>something</LevelName>
       <LevelNumber>1</LevelNumber>
       <SolutionEmptyCells>0</SolutionEmptyCells>
       <TotalCells>5</TotalCells>
       <LevelWidth>5</LevelWidth>
       <SolutionBinary>11111
 </SolutionBinary>
+      <LevelHeight>1</LevelHeight>
       <SolutionFilledCells>5</SolutionFilledCells>
       <SolutionImage>
         <SolutionImageId>attop4VmxuJIwQrzd</SolutionImageId>
@@ -399,7 +400,6 @@
       <GroupNumber>1</GroupNumber>
       <MenuName>#1.01</MenuName>
       <LevelSize>5x1</LevelSize>
-      <LevelHeight>1</LevelHeight>
     </Level>
     <Level>
       <LevelId>recOQ8JJB5zI4aVaV</LevelId>
