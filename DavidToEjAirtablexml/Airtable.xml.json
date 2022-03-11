@@ -5,7 +5,7 @@
         {
           "Name": "\r\n                                            Level #1.01",
           "GameName": "Cross Me",
-          "PuzzleHeight": "1",
+          "PuzzleHeight": "3",
           "PuzzleWidth": "5",
           "GroupNumber": "1",
           "LevelNumber": "1"
@@ -133,6 +133,106 @@
           "LevelNumber": "1",
           "CellStateCategory": "Answer",
           "Y": "0",
+          "X": "4",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "1",
+          "X": "0",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "1",
+          "X": "1",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "1",
+          "X": "2",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "1",
+          "X": "3",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "1",
+          "X": "4",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "2",
+          "X": "0",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "2",
+          "X": "1",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "2",
+          "X": "2",
+          "CellStateName": "Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "2",
+          "X": "3",
+          "CellStateName": "Not Selected"
+        },
+        {
+          "LevelMenuName": "#1.01",
+          "GameName": "Cross Me",
+          "GroupNumber": "1",
+          "LevelNumber": "1",
+          "CellStateCategory": "Answer",
+          "Y": "2",
           "X": "4",
           "CellStateName": "Selected"
         },
