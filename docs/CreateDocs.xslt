@@ -62,7 +62,7 @@ Level Width: <xsl:value-of select="LevelWidth" />
 Solution Empty Cells: <xsl:value-of select="SolutionEmptyCells" />
 Solution Filled Cells: <xsl:value-of select="SolutionFilledCells" />
 Solution Image : 
-					&lt;img width="70px"  src="<xsl:value-of select="SolutionImage/url" />" />
+					&lt;img width="110px"  src="<xsl:value-of select="SolutionImage/url" />" />
 					
 				</pre>
             </div>    
