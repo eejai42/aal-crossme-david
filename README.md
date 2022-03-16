@@ -26,6 +26,7 @@ From the project root / ...
 - NodeJs (with NPM)
 - ssotme which you can install with "> npm install ssotme/cli " (run this command after all that in administrator powershell without the >)
 - Zoom
+- PyCharm
 
 ### Ways to Learn 
 - Advent of Code (Multiple Years Of Advent Of Code, They come out during christmas time)
