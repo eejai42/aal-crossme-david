@@ -34,3 +34,8 @@ From the project root / ...
 ### What I've Learned   
 
 Difference between CMD and Powershell is that powershell is newer and has more features while cmd does the basics. They can both run most of the same commands. You can use both in windows terminal at once if you need
+
+### KeyWords and Definitions
+Parse: to make a file be read and understood via a programing language or other means (Translating data into a more understandable form)
+    - https://www.youtube.com/watch?v=T0BO415l3N0
+
