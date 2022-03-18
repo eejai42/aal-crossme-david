@@ -39,3 +39,9 @@ Difference between CMD and Powershell is that powershell is newer and has more f
 Parse: to make a file be read and understood via a programing language or other means (Translating data into a more understandable form)
     - https://www.youtube.com/watch?v=T0BO415l3N0
 
+API: (Application Programming Interface) Think of an api like a waiter at a restaurant. You know what food you want to order from the kitchen, but you have to send your request to the waiter. The waiter takes your request for food to the kitchen, and brings back your order from the kitchen.
+    - https://www.youtube.com/watch?v=s7wmiS2mSXY
+
+Array
+
+Object
