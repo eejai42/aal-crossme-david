@@ -56,6 +56,17 @@
       "Name": "XmlToJson",
       "RelativePath": "/DavidToEjAirtablexml",
       "CommandLine": "codee42/xml-to-json -i Airtable.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "ba509977-74bf-486e-a405-1b2125bd5d15",
+        "Name": "XmlToJson",
+        "Description": "Converts XML to JSON using the NewtonSoft C# conversion tools."
+      },
+      "ProjectTranspilerId": "eb24ff28-fb24-44fe-84df-dabca7a85a07",
+      "Name": "XmlToJson",
+      "RelativePath": "/SSoT",
+      "CommandLine": "xml-to-json -i .\\Airtable.xml"
     }
   ]
 }
