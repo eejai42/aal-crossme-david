@@ -30,6 +30,8 @@ From the project root / ...
 
 ### Ways to Learn 
 - Advent of Code (Multiple Years Of Advent Of Code, They come out during christmas time)
+- Shadow people who have been working long than you
+- Automous learning via youtube and other sources
 
 ### What I've Learned   
 
