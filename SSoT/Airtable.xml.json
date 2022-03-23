@@ -621,18 +621,18 @@
       "GamePlay": [
         {
           "GamePlayId": "rec2CcUTp6MyPCtXI",
-          "fields": null,
-          "createdTime": "2022-02-07T23:24:36Z"
+          "createdTime": "2022-02-07T23:24:36Z",
+          "fields": null
         },
         {
           "GamePlayId": "recBSpHjagDT0YDC8",
-          "fields": null,
-          "createdTime": "2022-02-07T23:24:36Z"
+          "createdTime": "2022-02-07T23:24:36Z",
+          "fields": null
         },
         {
           "GamePlayId": "recFaRN01uEEaAbVk",
-          "fields": null,
-          "createdTime": "2022-02-07T23:24:36Z"
+          "createdTime": "2022-02-07T23:24:36Z",
+          "fields": null
         }
       ]
     },
@@ -781,8 +781,8 @@
         },
         {
           "TextId": "recyRazfI5wMwm8RT",
-          "fields": null,
-          "createdTime": "2022-02-07T23:51:21Z"
+          "createdTime": "2022-02-07T23:51:21Z",
+          "fields": null
         }
       ]
     },

@@ -578,18 +578,18 @@
   <GamePlays>
     <GamePlay>
       <GamePlayId>rec2CcUTp6MyPCtXI</GamePlayId>
-      <fields />
       <createdTime>2022-02-07T23:24:36Z</createdTime>
+      <fields />
     </GamePlay>
     <GamePlay>
       <GamePlayId>recBSpHjagDT0YDC8</GamePlayId>
-      <fields />
       <createdTime>2022-02-07T23:24:36Z</createdTime>
+      <fields />
     </GamePlay>
     <GamePlay>
       <GamePlayId>recFaRN01uEEaAbVk</GamePlayId>
-      <fields />
       <createdTime>2022-02-07T23:24:36Z</createdTime>
+      <fields />
     </GamePlay>
   </GamePlays>
   <Texts>
@@ -736,8 +736,8 @@
     </Text>
     <Text>
       <TextId>recyRazfI5wMwm8RT</TextId>
-      <fields />
       <createdTime>2022-02-07T23:51:21Z</createdTime>
+      <fields />
     </Text>
   </Texts>
   <Versions>
