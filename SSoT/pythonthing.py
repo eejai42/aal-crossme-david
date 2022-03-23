@@ -32,6 +32,8 @@ for x in obj["Airtable"]["Levels"]["Level"]:
 # print(obj["Airtable"]["Levels"]["Level"][8]["SolutionBinary"])
 # print(obj["Airtable"]["Levels"]["Level"][9]["SolutionBinary"])
 
+# this is how the parentheses order goes
+#  Object, Object, Object, Array, Object
 
 
 
