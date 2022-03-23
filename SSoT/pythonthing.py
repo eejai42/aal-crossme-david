@@ -7,14 +7,14 @@ jsondata = myjsonfile.read()
 
 # Parse
 obj = json.loads(jsondata)
-
+#
 # for x in obj["Airtable"]["Levels"]["Level"]:
-#     print(x["SolutionBinary"])
-#     print("")
+#     if x["MenuName"] == "#1.08":
 
-
+#
 for x in obj["Airtable"]["Levels"]["Level"]:
     y = x["SolutionBinary"].replace("1", "x").replace("0"," ")
+    print(x["LevelName"])
     print(y)
     print("")
     print("")

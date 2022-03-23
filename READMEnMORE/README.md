@@ -29,9 +29,10 @@ From the project root / ...
 - PyCharm
 
 ### Ways to Learn 
-- Advent of Code (Multiple Years Of Advent Of Code, They come out during christmas time)
+- Advent of Code (Multiple Years Of Advent Of Code, They come out during Christmas time)
 - Shadow people who have been working long than you
-- Automous learning via youtube and other sources
+- Autonomous learning via YouTube and other sources
+- W3Schools Website
 
 ### What I've Learned   
 
