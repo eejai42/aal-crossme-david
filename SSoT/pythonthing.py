@@ -1,6 +1,6 @@
 import json
 
-print("hello")
+# print("hello")
 # read file
 myjsonfile = open('C:/Users/Kgand/Documents/Repositories/aal-crossme-david/SSoT/Airtable.xml.json', 'r')
 jsondata = myjsonfile.read()
@@ -8,16 +8,30 @@ jsondata = myjsonfile.read()
 # Parse
 obj = json.loads(jsondata)
 
-print(obj["Airtable"]["Levels"]["Level"][0]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][1]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][2]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][3]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][4]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][5]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][6]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][7]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][8]["SolutionBinary"])
-print(obj["Airtable"]["Levels"]["Level"][9]["SolutionBinary"])
+# for x in obj["Airtable"]["Levels"]["Level"]:
+#     print(x["SolutionBinary"])
+#     print("")
+
+
+for x in obj["Airtable"]["Levels"]["Level"]:
+    y = x["SolutionBinary"].replace("1", "x").replace("0"," ")
+    print(y)
+    print("")
+    print("")
+    print("")
+
+
+# print(obj["Airtable"]["Levels"]["Level"][0]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][1]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][2]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][3]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][4]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][5]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][6]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][7]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][8]["SolutionBinary"])
+# print(obj["Airtable"]["Levels"]["Level"][9]["SolutionBinary"])
+
 
 
 
