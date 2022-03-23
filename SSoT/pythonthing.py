@@ -15,6 +15,7 @@ obj = json.loads(jsondata)
 for x in obj["Airtable"]["Levels"]["Level"]:
     y = x["SolutionBinary"].replace("1", "x").replace("0"," ")
     print(x["LevelName"])
+    print("")
     print(y)
     print("")
     print("")
